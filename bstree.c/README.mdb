@@ -1,0 +1,5 @@
+A Binary Search Tree program in C using double pointers written for School Assignment
+
+Some of the code was provided by the professor
+
+The majority of the code written by me is found in bstree.c, datatype.c, main.c, and matrix.c
